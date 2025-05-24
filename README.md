@@ -22,7 +22,6 @@ This project is a simple Face Recognition system using Python, OpenCV, and the L
 
 Open terminal/command prompt and run:
 
-```bash
 pip install opencv-python opencv-contrib-python numpy
 
 📁 Project Structure
@@ -37,6 +36,7 @@ FaceIdentifier/
 │   └── names.txt                    # Maps ID to names (e.g., 0,John)
 │
 ├── trainer/                         # Stores trained recognizer model (.yml)
+
 
 🚀 Getting Started (Step-by-Step)
 ✅ Step 1: Install Python
@@ -78,4 +78,9 @@ example->
 0,John
 1,Alice
 2,Bob
+
+
+
+
+
 
