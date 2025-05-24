@@ -24,19 +24,6 @@ Open terminal/command prompt and run:
 
 pip install opencv-python opencv-contrib-python numpy
 
-📁 Project Structure
-FaceIdentifier/
-│
-├── facecapture.py                   # Captures face images and assigns ID
-├── trainer.py                       # Trains face recognizer model
-├── recognizer.py                    # Detects and recognizes faces live
-├── haarcascade_frontalface_default.xml  # Pre-trained face detection model
-│
-├── dataset/                         # Stores face images and names.txt
-│   └── names.txt                    # Maps ID to names (e.g., 0,John)
-│
-├── trainer/                         # Stores trained recognizer model (.yml)
-
 
 🚀 Getting Started (Step-by-Step)
 ✅ Step 1: Install Python
