@@ -1,4 +1,4 @@
-# Face Identifier – Python Project (OpenCV + AI/ML)
+# Live Face_DETECTION – Python Project (OpenCV + AI/ML)
 
 This project is a simple Face Recognition system using Python, OpenCV, and the LBPH Face Recognizer. It captures images from your webcam, trains a recognizer model, and identifies faces in real-time.
 
